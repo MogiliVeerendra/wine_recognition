@@ -1,0 +1,4 @@
+ipynbkernel
+pandas
+numpy
+ 
