@@ -1,4 +1,6 @@
-ipynbkernel
 pandas
 numpy
- 
+matplotlib
+scikit-learn
+joblib
+jupyter
